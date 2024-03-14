@@ -1,0 +1,4 @@
+{% extends 'generic/base.html' %}
+{% block content %}
+<h3>You've been logged out.</h3><a href="{% url 'homepage' %}">Return to homepage.</a> Or <a href="{% url 'logout' %}"></a>
+{% endblock %}

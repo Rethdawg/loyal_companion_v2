@@ -19,5 +19,5 @@ Practice and learn more web development, Django, Javascript, HTML/CSS and etc.
 I have decided to rewrite the project instead of refactoring it for several reasons:
 
 - **Standartisation.** When I started the original project, it included a lot of experimentation, as I learned while developing it. Some apps within the original project tackled the same challenges with different executions, were written without making full use of unit tests, were rushed or relied on bruteforcing some functionality.
-- **New fundamental features.** I plan to add a user log-in system, as well as implement MySQL rather than SQLite to handle user-specific databases.
+- **New fundamental features.** I plan to add a user log-in system, as well as implement PostgreSQL rather than SQLite to handle user-specific databases.
 - **Better practices establishment.** I want to get used to better coding practices as I work. Not being tied to a fast-approaching deadline will allow for more time to research and practice new skills.
